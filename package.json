@@ -1,0 +1,22 @@
+{
+  "name": "threejs-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Hebert/threejs-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-Hebert/threejs-experiments/issues"
+  },
+  "homepage": "https://github.com/Paul-Hebert/threejs-experiments#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
