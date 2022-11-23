@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Paul-Hebert/threejs-experiments#readme",
   "dependencies": {
-    "browser-sync": "^2.26.12"
+    "browser-sync": "^2.27.10"
   }
 }
